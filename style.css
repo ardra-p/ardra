@@ -37,7 +37,7 @@ p{
 .cloudf{
    width: 450px;
    position:absolute;
-   right: 450px;
+   right: 350px;
 }
 .clouds{
     width: 400px;
@@ -46,7 +46,7 @@ p{
  }
 .hill{
     height: 400px;
-    width: 1850px;
+    width:100%;
 }
 .dance{
     width:250px;
